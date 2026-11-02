@@ -32,7 +32,6 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,cs,python" alt="JavaScript, TypeScript, C++, Java, C# y Python" />
 
-<sub>Python: conocimientos básicos y primeras prácticas.</sub>
 
 **Frontend**
 
