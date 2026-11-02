@@ -12,8 +12,7 @@
 
 
 <p align="center">
-  Desarrollo aplicaciones web y participo en proyectos de software,<br />
-  trabajando en frontend, backend y bases de datos.
+  Estudiante de Ingeniería de Sistemas e Informática, desarrollando mis habilidades en software a través de proyectos y trabajo en equipo.
 </p>
 
 
