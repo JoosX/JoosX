@@ -1,8 +1,6 @@
 <p align="center">
-  <samp>SOFTWARE DEVELOPER · PERU</samp>
+  <img src="https://raw.githubusercontent.com/JoosX/JoosX/main/banner-nombre.svg" alt="Jorge Daniel Ortecho Serrano · Software Developer · Peru" width="100%" />
 </p>
-
-<h1 align="center">Jorge Daniel Ortecho Serrano</h1>
 
 <p align="center">
   <samp>FRONTEND &nbsp; / &nbsp; BACKEND &nbsp; / &nbsp; BASES DE DATOS</samp>
@@ -55,17 +53,3 @@
 | [Apicostura Panel](https://github.com/JoosX/apicostura-panel) | Módulo web para solicitudes de materiales, seguimiento de compras y entregas entre sedes. | HTML · CSS · JavaScript |
 | [Platform Adventure](https://github.com/JoosX/PlatformAdventure) | Videojuego de plataformas 2D. Aportes en niveles, mecánicas del personaje y audio. | Unity · C# |
 
----
-
-## Actividad en GitHub
-
-<p align="center">
-  <a href="https://github.com/JoosX?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=JoosX&hide_border=true&show_ring=false&show_icons=false&hide=grade,stars,followers,streak,week,trend,avg,active_day,issues&custom_title=Actividad%20en%20GitHub&bg=0d1117&text=c9d1d9&title_color=58a6ff" />
-      <img src="https://ghstats.dev/api/card?username=JoosX&hide_border=true&show_ring=false&show_icons=false&hide=grade,stars,followers,streak,week,trend,avg,active_day,issues&custom_title=Actividad%20en%20GitHub&theme=light" alt="Actividad pública de JoosX: commits, pull requests, contribuciones y repositorios" />
-    </picture>
-  </a>
-</p>
-
-<p align="center"><sub>Estadísticas de actividad pública generadas por <a href="https://ghstats.dev">GHStats</a>.</sub></p>
