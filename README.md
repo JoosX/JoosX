@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <samp>SOFTWARE DEVELOPER · PERU</samp>
+</p>
 
-<!--
-**JoosX/JoosX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Daniel Ortecho</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Desarrollo aplicaciones web y participo en proyectos de software,
+  trabajando en frontend, backend y bases de datos.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="#tecnologías">Tecnologías</a> ·
+  <a href="#proyectos">Proyectos</a>
+</p>
+
+---
+
+## Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nestjs,laravel&perline=7" alt="HTML, CSS, JavaScript, TypeScript, Vue, NestJS y Laravel" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,cs,mysql,postgres,unity,git&perline=7" alt="C++, Java, C#, MySQL, PostgreSQL, Unity y Git" />
+</p>
+
+---
+
+## Proyectos
+
+| Proyecto | Descripción y participación | Tecnologías |
+|---|---|---|
+| [Happy Dog](https://github.com/JoosX/Happy_Dog) | Sistema de gestión veterinaria. Colaboración en frontend, backend, corrección de errores y documentación. | Vue · NestJS · TypeScript · PostgreSQL |
+| [Apoya.pe](https://github.com/JoosX/Apoya.pe) | Plataforma de voluntariado. Aportes en interfaz, integración y reportes. | Vue · Laravel · MySQL |
+| [Apicostura Panel](https://github.com/JoosX/apicostura-panel) | Módulo web para solicitudes de materiales, seguimiento de compras y entregas entre sedes. | HTML · CSS · JavaScript |
+| [Platform Adventure](https://github.com/JoosX/PlatformAdventure) | Videojuego de plataformas 2D. Aportes en niveles, mecánicas del personaje y audio. | Unity · C# |
