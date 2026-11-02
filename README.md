@@ -1,15 +1,14 @@
 <p align="center">
-  <samp>SOFTWARE DEVELOPER · PERU</samp>
+  <img src="https://raw.githubusercontent.com/JoosX/JoosX/main/banner.gif" alt="Daniel Ortecho · Software Developer · Peru" width="100%" />
 </p>
 
-<h1 align="center">Daniel Ortecho</h1>
-
 <p align="center">
-  Desarrollo aplicaciones web y participo en proyectos de software,
+  Desarrollo aplicaciones web y participo en proyectos de software,<br />
   trabajando en frontend, backend y bases de datos.
 </p>
 
 <p align="center">
+  <a href="mailto:daniel19092005ortecho@gmail.com">Contacto</a> ·
   <a href="#tecnologías">Tecnologías</a> ·
   <a href="#proyectos">Proyectos</a>
 </p>
@@ -21,7 +20,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nestjs,laravel&perline=7" alt="HTML, CSS, JavaScript, TypeScript, Vue, NestJS y Laravel" />
 </p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,cs,mysql,postgres,unity,git&perline=7" alt="C++, Java, C#, MySQL, PostgreSQL, Unity y Git" />
 </p>
