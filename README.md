@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JoosX/JoosX/main/banner.gif" alt="Daniel Ortecho · Software Developer · Peru" width="100%" />
+  <samp>SOFTWARE DEVELOPER · PERU</samp>
+</p>
+
+<h1 align="center">Jorge Daniel Ortecho Serrano</h1>
+
+<p align="center">
+  <samp>FRONTEND &nbsp; / &nbsp; BACKEND &nbsp; / &nbsp; BASES DE DATOS</samp>
 </p>
 
 <p align="center">
